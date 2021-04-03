@@ -1,0 +1,11 @@
+.MainTable{
+	width: 100%;
+}
+
+.MainTable, .MainTable tr, .MainTable tr th, .MainTable tr td{
+		border: 1px solid black;
+}
+
+.pppcart{
+	max-width: 80px;
+}

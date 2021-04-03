@@ -1,0 +1,35 @@
+.list-data {
+  text-align: center;
+}
+
+
+img {
+	max-width: 200px;
+}
+
+.pp{
+	border: 1px solid black;
+	border-radius: 5%;
+}
+
+
+.head{
+	height: 40%;
+	width: 100%;
+	height: 120px;
+}
+
+.bg-teal,.btn-teal{
+	background-color: #236666 !important;
+}
+
+.text-teal{
+	color:  #236666 !important;
+}
+
+.carousel-item img{
+	height: 550px;
+}
+.p{
+	background-color: rgba(0, 0, 0, 0.2)
+}

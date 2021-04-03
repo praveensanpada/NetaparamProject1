@@ -1,0 +1,28 @@
+.pppc{
+	max-width: 50px;
+}
+
+.pppl{
+	max-width: 80px;
+}
+
+.fl{
+	float: left;
+}
+
+.mll{
+	text-align: center;
+}
+
+.rl{
+	float: right;
+}
+
+.search{
+	text-align: center;
+	border-radius: 8px;
+}
+
+.ppt{
+	max-width: 15px;
+}
